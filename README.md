@@ -189,13 +189,6 @@ $ cd Betty; ./install.sh
 * 0.1.0
 
 
-## :blue_book: Authors
-
-* **Brennan D Baraban** - [@bdbaraban](https://github.com/bdbaraban)
-
-* **Bennett Dixon** - [@BennettDixon](https://github.com/BennettDixon)
-
-
 ## :mag: License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
